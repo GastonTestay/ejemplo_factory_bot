@@ -1,0 +1,1 @@
+# ejemplo_factory_bot
